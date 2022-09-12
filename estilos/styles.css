@@ -55,7 +55,7 @@ label {
     
 }
 #mensajes {
-    width: 500px;
+    width: 200px;
     background: #EEEEEE;
     padding: 10px;
     margin-top: 20px;
@@ -108,7 +108,7 @@ input:checked + label{
     box-sizing: border-box;
     border-radius: 20px;
     border-color:transparent ;
-    width: 100px;
+    width: 80px;
 }
 .ataques{
     display: grid;
